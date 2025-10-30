@@ -30,7 +30,6 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 ### Languages and Tools
 
-### Languages and Tools
 
 <!-- Programming Languages -->
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
@@ -53,12 +52,7 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 <!-- Backend / Cloud -->
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="fastapi"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
 
-<!-- Tools -->
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal"></code>
 
 
 ---
