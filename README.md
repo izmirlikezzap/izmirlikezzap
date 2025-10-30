@@ -25,7 +25,6 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 - Currently working on: medical image captioning, segmentation, and masked image classification.
 - Interested in: multimodal deep learning, generative models, and representation learning.
-- Contact: mustafaay.online (placeholder, isteğe göre değiştirilebilir)
 
 ---
 
