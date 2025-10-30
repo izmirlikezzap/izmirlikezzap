@@ -1,6 +1,7 @@
 ## Hey there, I'm Mustafa Ayanoğlu
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-melik-ayano%C4%9Flu-022688214/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/melikayanoglu/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/izmirlikezzap)
 
 <p align="left"> 
@@ -66,7 +67,9 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 ### Support My Work
 
-<a href="https://buymeacoffee.com/ayanoglumu7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60px" width="217px"></a>
+<a href="https://buymeacoffee.com/ayanoglumu7" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60px" width="217px" alt="Buy Me a Coffee">
+</a>
 
 ---
 
