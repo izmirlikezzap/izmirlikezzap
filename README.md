@@ -43,12 +43,6 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 ### GitHub Stats
 
-<details>
-  <summary><b>General Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izmirlikezzap&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izmirlikezzap&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
 
 <details>
   <summary><b>Commit Activity Streak</b></summary>
