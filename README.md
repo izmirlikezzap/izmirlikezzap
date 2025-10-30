@@ -30,28 +30,21 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 ### Languages and Tools
 
-
-<!-- Programming Languages -->
+<p align="left">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="kotlin"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" alt="swift"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="cpp"></code>
-
-<!-- AI / ML -->
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="pytorch"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="tensorflow"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="opencv"></code>
-
-<!-- Mobile Development -->
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="android"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/jetpack-compose/jetpack-compose.png" alt="jetpack compose"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/xcode/xcode.png" alt="xcode"></code>
-
-<!-- GUI / Desktop -->
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/qt/qt.png" alt="qt"></code>
-
-<!-- Backend / Cloud -->
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase"></code>
+</p>
+
 
 
 
