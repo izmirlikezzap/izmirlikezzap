@@ -69,7 +69,7 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 ### Support My Work
 
-<a href="https://buymeacoffee.com/ayanoglumu7" target="_blank">
+<a href="https://buymeacoffee.com/ayanoglumustafa" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60px" width="217px" alt="Buy Me a Coffee">
 </a>
 
