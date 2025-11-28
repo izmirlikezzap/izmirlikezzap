@@ -14,7 +14,7 @@ Medical imaging, deep learning, model explainability, and mobile application dev
 I work on:
 - Computer Vision and Medical Image Analysis
 - Model Training, Evaluation & Explainability
-- Android App Development (Kotlin + Jetpack Compose + Swift)
+- Mobile App Development (Kotlin + Jetpack Compose + Swift)
 - End-to-End ML Systems and Research
 
 When I'm not coding, I'm usually reading research papers, optimizing model pipelines or exploring new architectures.
