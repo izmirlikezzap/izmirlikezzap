@@ -64,7 +64,7 @@ I design, develop, and maintain production-ready mobile applications across **An
 
   <tr>
     <td width="80">
-      <img src="https://play-lh.googleusercontent.com/Vrw9C1J7xJwj6kG53759ud-M4UTR6ueQ-EHBQ7lPTDoAGNqM7ZCVhPEdmtq-yZF6M72GXi2Cu1djnaxum1obPw=w240-h240-rw" width="64"/>
+      <img src="[https://play-lh.googleusercontent.com/Vrw9C1J7xJwj6kG53759ud-M4UTR6ueQ-EHBQ7lPTDoAGNqM7ZCVhPEdmtq-yZF6M72GXi2Cu1djnaxum1obPw=w240-h240-rw](https://play-lh.googleusercontent.com/CWAbgJd60pwU4ORH6JVlQ7hK6fEX8ITy2OCOCqhtIq8dj1o7j7Okgun4zFFyHTugco6Tdmu13AryeM3BhpnF=w480-h960-rw)" width="64"/>
     </td>
     <td>
       <b>myReglify — Period & Cycle Tracking</b><br/>
