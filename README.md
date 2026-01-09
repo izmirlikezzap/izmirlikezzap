@@ -21,6 +21,62 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 
 ---
 
+### 📱 Mobile Applications
+
+I design, develop, and maintain production-ready mobile applications across **Android** and **iOS**, focusing on health-tech, productivity, and AI-assisted user experiences.
+
+<table>
+  <tr>
+    <td width="80">
+      <img src="https://play-lh.googleusercontent.com/Vrw9C1J7xJwj6kG53759ud-M4UTR6ueQ-EHBQ7lPTDoAGNqM7ZCVhPEdmtq-yZF6M72GXi2Cu1djnaxum1obPw=w240-h240-rw" width="64"/>
+    </td>
+    <td>
+      <b>Vocably — YÖKDİL & YDS Vocabulary</b><br/>
+      Smart English vocabulary trainer with spaced repetition and AI-assisted explanations.<br/>
+      <a href="https://apps.apple.com/tr/app/vocably-y%C3%B6kdi-l-yds-keli-me/id6755250166">iOS</a> ·
+      <a href="https://play.google.com/store/apps/details?id=com.mustafamelik.vocably">Android</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="80">
+      <img src="https://play-lh.googleusercontent.com/H2cfeNXSQVlyZ6mC7XqIRnBl4SNwb9FVGbVs_9RoReL65kvdu-wleS88vcoa9x5y_b-Sgpy3l9EDfrLcxk2uMw=w240-h240-rw" width="64"/>
+    </td>
+    <td>
+      <b>Babyly — Smart Baby Care Assistant</b><br/>
+      Baby growth, feeding, sleep, and care tracking with evidence-based health logic.<br/>
+      <a href="https://apps.apple.com/tr/app/babyly-kolay-bebek-bak%C4%B1m%C4%B1/id6755251301">iOS</a> ·
+      <a href="https://play.google.com/store/apps/details?id=com.mustafamelik.babyly">Android</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="80">
+      <img src="https://play-lh.googleusercontent.com/cnZxGndY4baG2UHAJrhSUSwe9eoW3LeYSyt29v5LVlRbfTEfH_0fTUhzI0e8YmsS8Y2eO1gLBSoL212-5J_H=w240-h240-rw" width="64"/>
+    </td>
+    <td>
+      <b>Fitnessly — Training & Workout Programs</b><br/>
+      Structured workout programs and progress tracking tailored to fitness goals.<br/>
+      <a href="https://apps.apple.com/tr/app/fitnessly-spor-programlar%C4%B1/id6755309271">iOS</a> ·
+      <a href="https://play.google.com/store/apps/details?id=com.mustafamelik.fitnessly">Android</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="80">
+      <img src="https://play-lh.googleusercontent.com/Vrw9C1J7xJwj6kG53759ud-M4UTR6ueQ-EHBQ7lPTDoAGNqM7ZCVhPEdmtq-yZF6M72GXi2Cu1djnaxum1obPw=w240-h240-rw" width="64"/>
+    </td>
+    <td>
+      <b>myReglify — Period & Cycle Tracking</b><br/>
+      Menstrual cycle and fertility tracking with personalized insights and reminders.<br/>
+      <a href="https://apps.apple.com/tr/app/myreglify-regl-adet-takibi/id6755199517">iOS</a> ·
+      <a href="https://play.google.com/store/apps/details?id=com.melifeai.myReglify">Android</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Personal
 
 - Currently working on: medical image captioning, segmentation, and masked image classification.
@@ -45,13 +101,9 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase"></code>
 </p>
 
-
-
-
 ---
 
 ### GitHub Stats
-
 
 <details>
   <summary><b>Commit Activity Streak</b></summary>
@@ -64,17 +116,3 @@ When I'm not coding, I'm usually reading research papers, optimizing model pipel
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </details>
-
----
-
-### Support My Work
-
-<a href="https://buymeacoffee.com/ayanoglumustafa" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60px" width="217px" alt="Buy Me a Coffee">
-</a>
-
----
-
-<div align="center">
-Show support by starring repositories you find interesting.
-</div>
