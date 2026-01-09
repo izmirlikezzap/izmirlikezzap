@@ -102,17 +102,3 @@ I design, develop, and maintain production-ready mobile applications across **An
 </p>
 
 ---
-
-### GitHub Stats
-
-<details>
-  <summary><b>Commit Activity Streak</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=izmirlikezzap&hide_border=true" />
-</details>
-
-<details>
-  <summary><b>Random Dev Quote</b></summary>
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</details>
